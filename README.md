@@ -18,9 +18,11 @@ A group of development resources.
 - https://www.djangoproject.com/
 
 ### Online Classes
-- https://www.udacity.com/
-- https://www.codeschool.com/
+- https://teamtreehouse.com
 - https://www.codecademy.com/
+- https://www.udacity.com/
+- https://www.khanacademy.org
+
 
 ### Web
 - https://developer.mozilla.org/en-US/docs/Web
@@ -30,7 +32,14 @@ A group of development resources.
 - https://aws.amazon.com/
 
 ### Javascript
+- https://github.com/bpesquet/thejsway
 - https://nodejs.org/en/
+
+
+### Wordpress
+- https://wordpress.org/
+- https://codex.wordpress.org/
+- https://generatewp.com/
 
 
 ### Hosting
