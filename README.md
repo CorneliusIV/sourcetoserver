@@ -34,6 +34,7 @@ A group of development resources.
 ### Javascript
 - https://github.com/bpesquet/thejsway
 - https://nodejs.org/en/
+- https://eloquentjavascript.net/
 
 
 ### Wordpress
