@@ -22,6 +22,12 @@ A group of development resources.
 - https://www.codecademy.com/
 - https://www.udacity.com/
 - https://www.khanacademy.org
+- https://www.kadenze.com/
+
+### Bootcamp
+- https://flatironschool.com/
+- https://generalassemb.ly/
+- https://bootcamp.cps.gwu.edu/
 
 
 ### Web
